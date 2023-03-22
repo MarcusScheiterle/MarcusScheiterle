@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcus <span align="left"> <img src="https://komarev.com/ghpvc/?username=mscheiterle&label=Profile%20views&color=0e75b6&style=flat" alt="mscheiterle" /> </span></h1>
-<h3 align="center">A dedicated front-end develoepr based in Maryland, US</h3>
+<h3 align="center">A dedicated front-end developer based in Maryland, US</h3>
 
 🚧 I’m currently working on [Simpl1f1ed.com](https://github.com/MScheiterle/Simpl1f1ed.com)
 
