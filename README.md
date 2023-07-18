@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcus <span align="left"> <img src="https://komarev.com/ghpvc/?username=mscheiterle&label=Profile%20views&color=0e75b6&style=flat" alt="mscheiterle" /> </span></h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mscheiterle&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mscheiterle" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mscheiterle&show_icons=true&theme=dracula&locale=en" alt="mscheiterle" /></p>
-
 ***
 
 <h3 align="center">Tools I Use:</h3>
@@ -34,3 +30,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
 ***
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mscheiterle&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mscheiterle" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=mscheiterle&show_icons=true&theme=dracula&locale=en" alt="mscheiterle" /></p>
