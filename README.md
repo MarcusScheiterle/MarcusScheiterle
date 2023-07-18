@@ -1,20 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marcus <span align="left"> <img src="https://komarev.com/ghpvc/?username=mscheiterle&label=Profile%20views&color=0e75b6&style=flat" alt="mscheiterle" /> </span></h1>
-<h3 align="center">A dedicated front-end developer based in Maryland, US</h3>
 
-🚧 I’m currently working on [Simpl1f1ed.com](https://github.com/MScheiterle/Simpl1f1ed.com)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mscheiterle&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mscheiterle" /></p>
 
-👨‍💻 All of my projects will be available at [Simpl1f1ed.com](https://Simpl1f1ed.com/)
-
-📫 How to reach me **simpl1f1ed@simpl1f1ed.com**
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/marcusscheiterle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcusscheiterle/" height="30" width="40" /></a>
-  <span>
-  <img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="https://www.linkedin.com/in/marcusscheiterle/" height="40"      width="40"/>
-    Simpl1f1ed#7743
-  </span>
-</p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mscheiterle&show_icons=true&theme=dracula&locale=en" alt="mscheiterle" /></p>
 
 ***
 
@@ -46,7 +34,3 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
 ***
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mscheiterle&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mscheiterle" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mscheiterle&show_icons=true&theme=dracula&locale=en" alt="mscheiterle" /></p>
