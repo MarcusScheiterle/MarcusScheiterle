@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcus <span align="left"> <img src="https://komarev.com/ghpvc/?username=mscheiterle&label=Profile%20views&color=0e75b6&style=flat" alt="mscheiterle" /> </span></h1>
 
-***
-
 <h3 align="center">Tools I Use:</h3>
 <h4 align="center">All the time:</h4>
 <p align="center"> 
