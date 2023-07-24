@@ -28,6 +28,5 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
 ***
-
-<p><img align="left" src="https://github-readme-stats-vercel-delta.vercel.app/api/top-langs?username=mscheiterle&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mscheiterle" /></p>
-<p><img align="right" src="https://github-readme-stats-vercel-delta.vercel.app/api?username=mscheiterle&show_icons=true&theme=dracula&locale=en" alt="mscheiterle" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mscheiterle&layout=compact&theme=radical" alt="mscheiterle" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=mscheiterle&rank_icon=percentile&show_icons=true&theme=radical" alt="mscheiterle" /></p>
