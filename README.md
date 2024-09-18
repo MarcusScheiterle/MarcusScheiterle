@@ -8,6 +8,6 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mscheiterle&layout=compact&theme=radical&langs_count=12&hide_border=true" alt="mscheiterle" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mscheiterle&rank_icon=percentile&show_icons=true&theme=radical&line_height=28&hide_border=true&card_width=347" alt="mscheiterle" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusScheiterle&layout=compact&theme=radical&langs_count=12&hide_border=true" alt="MarcusScheiterle" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcusScheiterle&rank_icon=percentile&show_icons=true&theme=radical&line_height=28&hide_border=true&card_width=347" alt="MarcusScheiterle" />
 </div>
